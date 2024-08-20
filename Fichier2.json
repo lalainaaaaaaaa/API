@@ -1,0 +1,28 @@
+{
+    "school":{
+        "name": "HEI",
+        "creation": 2021,
+        "domain": "IT",
+        "nbSTudents": 200,
+
+        "students":[{
+            "name": "Rakoto",
+            "ref": "STD23001",
+            "group":{
+                "name": "A1",
+                "year": 2023,
+                "level": "L1"
+            }
+        },
+        {
+            "name": "Rabe",
+            "ref": "STD23002",
+            "group": {
+                "name": "A2",
+                "year": 2023,
+                "level": "L2"
+            }
+        }
+    ]
+    }
+}
